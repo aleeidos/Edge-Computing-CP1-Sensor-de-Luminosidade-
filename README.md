@@ -29,7 +29,7 @@ Utilizamos três LEDs que seriam acendidos e sinalizando, assim, o nível de lum
 Além disso, o sensor Buzzer vai trabalhar em conjunto com o LDR e os LEDs. Ele vai nos avisar quando a luminosidade estiver mais alta.
 Haverão dois casos onde o Buzzer irá emitir um alerta sonoro:
 * Quando o LED amarelo acender;
-* Quando o LED vermelho acender.
+* Quando o LED vermelho acender.  
 O único caso onde o Buzzer não vai emitir um alerta sonoro é enquanto o LED verde estiver aceso. Isto vai indicar que o nível de luminosidade está adequado.
 
 ### Sobre o LDR
