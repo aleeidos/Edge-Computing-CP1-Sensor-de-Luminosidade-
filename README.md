@@ -24,7 +24,8 @@ Utilizamos três LEDs que seriam acendidos e sinalizando, assim, o nível de lum
 * se a luminosidade for igual ou maior que 880 e menor que 970, a luz amarela vai acender  
   * se a luz amarela acender, significa que a gente tem que estar em alerta com a quantidade de luminosidade que o sensor está recebendo  
 * e caso não for nenhum desses casos, ou seja, maior que 970, a luz vermelha vai acender  
-  * se a luz vermelha acender, significa que tem algum problema acontecendo, e tem muita luminosidade entrando no sensor e deve ser resolvido  
+  * se a luz vermelha acender, significa que tem algum problema acontecendo, e tem muita luminosidade entrando no sensor e deve ser resolvido
+
 Além disso, o sensor Buzzer vai trabalhar em conjunto com o LDR e os LEDs. Ele vai nos avisar quando a luminosidade estiver mais alta.
 Haverão dois casos onde o Buzzer irá emitir um alerta sonoro:
 * Quando o LED amarelo acender;
